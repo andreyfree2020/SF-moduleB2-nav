@@ -1,1 +1,1 @@
-Insert first line1 - addind some to first line
+Empty file - after resolving conflict
